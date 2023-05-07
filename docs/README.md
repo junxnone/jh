@@ -7,8 +7,8 @@ Edit @ | [here](https://github.com/junxnone/jh/issues/1)
 ---
 `Le vent se lève, ‌‍‍‌‍​‌‌‍​‍‌‌‌‌​‌‌‍‍‍​‌‍‍‍‍​‌‍‍‍‍​‌‍‍‌‍​‌‌‍​‍‍‌‌‌​‌‌‍‍‍​‌‌‌‍‍​‌‍‍‍‍​‌‍‍‌‍​‌‌‍​‌‌‌‌‍​‌‌‍‌​‍‌‌‌‌​‍‍‍‍‍​‍‍‍​‍‌​‌​‌‌‌​‌‌‌‌​‌‌‍il faut tenter de vivre.`
 
-
-This is a [Template] Wiki.  <kbd>[Use this Template](https://github.com/junxnone/twiki/generate)</kbd>
+## 结婚
+- <kbd>[Use this Template](https://github.com/junxnone/twiki/generate)</kbd>
 
 
 [Index](_sidebar.md ':include')
