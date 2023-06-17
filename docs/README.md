@@ -1,19 +1,26 @@
 ---
 Title | README
 -- | --
-Updated @ | `2023-05-07T11:37:35Z`
+Updated @ | `2023-06-17T12:55:04Z`
 Edit @ | [here](https://github.com/junxnone/jh/issues/1)
 
 ---
 `Le vent se lève, ‌‍‍‌‍​‌‌‍​‍‌‌‌‌​‌‌‍‍‍​‌‍‍‍‍​‌‍‍‍‍​‌‍‍‌‍​‌‌‍​‍‍‌‌‌​‌‌‍‍‍​‌‌‌‍‍​‌‍‍‍‍​‌‍‍‌‍​‌‌‍​‌‌‌‌‍​‌‌‍‌​‍‌‌‌‌​‍‍‍‍‍​‍‍‍​‍‌​‌​‌‌‌​‌‌‌‌​‌‌‍il faut tenter de vivre.`
 
-## 结婚
-- <kbd>[Use this Template](https://github.com/junxnone/twiki/generate)</kbd>
 
+This is a [Template] Wiki.  <kbd>[Use this Template](https://github.com/junxnone/twiki/generate)</kbd>
+
+
+
+
+- [Mindmap - Markmap](https://junxnone.github.io/jh/markmap.html?md=https://junxnone.github.io/jh/_sidebar.md)
+- [3D Knowledge Graph](https://junxnone.github.io/jh/kg)
+
+---
 
 [Index](_sidebar.md ':include')
 
-[markmap show](https://junxnone.github.io/jh/markmap.html?md=https://junxnone.github.io/jh/_sidebar.md ':include :type=iframe width=100% height=400px')
+[kg](https://junxnone.github.io/jh/kg ':include :type=iframe width=100% height=800px')
 
 
 
